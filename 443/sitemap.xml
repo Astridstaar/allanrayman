@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+   <url>
+      <loc>http://linkfire.com/</loc>
+      <lastmod>2014-02-25</lastmod>
+      <image:image>
+         <image:loc>http://linkfire.com/static/images/meta_video.jpg</image:loc>
+      </image:image>
+      <video:video>
+         <video:player_loc allow_embed="yes" autoplay="autoplay=1">
+            http://vimeo.com/moogaloop.swf?clip_id=73844531
+         </video:player_loc>
+         <video:thumbnail_loc>
+            http://linkfire.com/static/images/meta_video.jpg
+         </video:thumbnail_loc>
+         <video:title>
+            Introducing Linkfire
+         </video:title>
+         <video:description>
+            With Linkfire we've created a powerful and simple link management tool for all the doers, writers and marketeers; or simply the people, who create the awesome content that's shared on social media everyday. We’d like to consider Linkfire as the next-generation URL shortener. A shorten service on steroids if you will. It gives you the power to completely customise and control your links ensuring that brand identity and a great click-through rate is maintained.
+         </video:description>
+      </video:video>
+   </url>
+   <url>
+      <loc>http://linkfire.com/?mode=signup</loc>
+      <priority>0.8</priority>
+      <image:image>
+         <image:loc>http://linkfire.com/static/images/meta_logo.jpg</image:loc>
+      </image:image>
+   </url>
+   <url>
+      <loc>http://linkfire.com/?mode=signin</loc>
+      <image:image>
+         <image:loc>http://linkfire.com/static/images/meta_logo.jpg</image:loc>
+      </image:image>
+   </url>
+   <url>
+      <loc>http://linkfire.com/plans</loc>
+      <priority>0.8</priority>
+      <image:image>
+         <image:loc>http://linkfire.com/static/images/meta_logo.jpg</image:loc>
+      </image:image>
+   </url>
+   <url>
+      <loc>http://linkfire.com/about</loc>
+      <image:image>
+         <image:loc>http://linkfire.com/static/images/meta_logo.jpg</image:loc>
+      </image:image>
+   </url>
+   <url>
+      <loc>http://linkfire.com/faq</loc>
+      <image:image>
+         <image:loc>http://linkfire.com/static/images/meta_logo.jpg</image:loc>
+      </image:image>
+   </url>
+   <url>
+      <loc>http://linkfire.com/terms</loc>
+      <image:image>
+         <image:loc>http://linkfire.com/static/images/meta_logo.jpg</image:loc>
+      </image:image>
+   </url>
+   <url>
+      <loc>http://linkfire.com/privacy</loc>
+      <image:image>
+         <image:loc>http://linkfire.com/static/images/meta_logo.jpg</image:loc>
+      </image:image>
+   </url>
+</urlset>
